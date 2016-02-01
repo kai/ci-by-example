@@ -1,5 +1,7 @@
 # [Continuous Integration][1] [![Build Status][2]][3]
 
+Test
+
 _This repository is part of the **JavaScript Application Design: A Build First Approach** book's code samples_, the full original for the code samples [can be found here][4]. You can [learn more about the book itself here][5].
 
 This tutorial is part of the code samples accompanying the book [in _Chapter 4_][6], about the release flow, deployments, and hosted application monitoring.
